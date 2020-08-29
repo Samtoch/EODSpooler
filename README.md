@@ -1,2 +1,2 @@
 # EODSpooler
-Java Maven Project for spooling EOD Reports
+Java Maven Desktop Project for spooling EOD Reports
